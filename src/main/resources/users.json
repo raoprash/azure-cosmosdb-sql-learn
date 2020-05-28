@@ -1,0 +1,138 @@
+
+[
+    {
+        "id" : "2",
+        "UserId" : "nelapin",
+        "LastName" : "Pindakova",
+        "FirstName" : "Nela",
+        "Email" : "nelapin@contoso.com",
+        "Dividend" : "8.50",
+        "OrderHistories" : [
+            {
+                "OrderHistory" : 
+                {
+                    "OrderID" :"1001",
+                    "DateShipped" : "08/17/2018",
+                    "Total" : "105.89"
+                }
+            },
+            {
+                "OrderHistory" : 
+                {
+                    "OrderID" :"1002",
+                    "DateShipped" : "08/17/2020",
+                    "Total" : "1050909.89"
+                }
+            }
+        ],
+        "ShippingPreferences"  : [
+            {
+                "ShippingPreference":
+                {
+                    "Priority" : "1",
+                    "AddressLine1" : "505 NW 5th St",
+                    "City" : "New York",
+                    "State" : "NY",
+                    "ZipCode" : "10001",
+                    "Country" : "USA"
+                }
+            },
+            {
+                "ShippingPreference":
+                {
+                    
+                    "Priority" : "2",
+                    "AddressLine1" : "AMR MIG Row Houses",
+                    "AddressLine2" : "Nandini Layout",
+                    "City" : "Bangalore",
+                    "State" : "Karnataka",
+                    "ZipCode" : "560096",
+                    "Country" : "INDIA"
+                }
+            }
+        ],
+        "CouponsUsed":[
+            {
+                "CouponCodes" :
+                {
+                    "CouponCode":"Fall2018"
+                }
+            },
+            {
+                "CouponCodes" :
+                {
+                    "CouponCode" : "President20"
+                }
+            }
+        ]
+        
+    },
+    {
+        "id" : "3",
+        "UserId" : "Prash",
+        "LastName" : "P",
+        "FirstName" : "K",
+        "Email" : "pk@contoso.com",
+        "Dividend" : "800.50",
+        "OrderHistories" : [
+            {
+                "OrderHistory" : 
+                {
+                    "OrderID" :"1011",
+                    "DateShipped" : "08/17/2018",
+                    "Total" : "10000.89"
+                }
+            },
+            {
+                "OrderHistory" : 
+                {
+                    "OrderID" :"1022",
+                    "DateShipped" : "08/17/2020",
+                    "Total" : "3433.89"
+                }
+            }
+        ],
+        "ShippingPreferences"  : [
+            {
+                "ShippingPreference":
+                {
+                    "Priority" : "3",
+                    "AddressLine1" : "60 St",
+                    "City" : "New York",
+                    "State" : "NY",
+                    "ZipCode" : "10019",
+                    "Country" : "USA"
+                }
+            },
+            {
+                "ShippingPreference":
+                {
+                    
+                    "Priority" : "2",
+                    "AddressLine1" : "15th cross",
+                    "AddressLine2" : "Malleshawarm",
+                    "City" : "Bangalore",
+                    "State" : "Karnataka",
+                    "ZipCode" : "560096",
+                    "Country" : "INDIA"
+                }
+            }
+        ],
+        "CouponsUsed":[
+            {
+                "CouponCodes" :
+                {
+                    "CouponCode":"Fall2018"
+                }
+            },
+            {
+                "CouponCodes" :
+                {
+                    "CouponCode" : "President20"
+                }
+            }
+        ]
+        
+    }
+]
+

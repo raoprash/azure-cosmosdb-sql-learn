@@ -1,0 +1,4 @@
+accountEndpoint: https://prashcosmos.documents.azure.com:443/
+accountKey: PgFbegCRHa35TJHEZGj6pivLfQ6jE58eT40r2flAVwTdiErOlGvsC4vseCprnwmanXvkOregQfKlIbjWXvcaBA==
+databaseName: Users
+containerName: WebCustomers
